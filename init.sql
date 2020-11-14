@@ -10,3 +10,4 @@ INSERT INTO phonebook_db.phonebook (name, number)
         ("Callahan", "1234567890"),
         ("Sergio Taco", "67854"),
         ("Vincenzo Altobelli", "876543554");
+        ("Marcus Dandeli", "132463254");
